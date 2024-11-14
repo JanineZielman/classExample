@@ -1,12 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.menu{
-  display: flex;
-  justify-content: center;
+.image-section{
+  width: 25%;
+  margin: auto;
 }
 
-.menu a{
-  margin: 0 24px;
+.image-section img{
+  width: 100%;
+  height: auto;
 }
